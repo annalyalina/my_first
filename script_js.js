@@ -1,2 +1,2 @@
 let x = 123;
-lets y = 321;
+let y = 321;
